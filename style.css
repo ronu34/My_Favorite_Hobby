@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+#parallex-inner{
+    display: table-cell;
+    vertical-align: middle;
+}
+#line{
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+.image{
+    border-radius: 50%;
+    width: 100px;
+}
